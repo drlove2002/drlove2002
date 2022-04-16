@@ -1,9 +1,12 @@
-### Hi there o/
-ℹ I code weird things which make people happy somehow XD
+### Some weird facts about me maybe?
+👨‍💻 Software developer
 
-😉 I am a discord bot and website developer.
+☕ A caffeine-addict species.
 
-➕ You can contact me on discord (Dr. Love#3000) or Instagranm (sudip.co)
+🎭 Curious | Confused | Innocent
+
+🎮 Discord server manager and senior bot dev at [Worldwide🌍](https://discord.gg/worldwide)
+
 
 # Github stats
 ![My github stats](https://github-readme-stats.vercel.app/api?username=RamzziSudip&count_private=true&theme=synthwave)  
