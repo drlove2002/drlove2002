@@ -9,6 +9,6 @@
 
 
 # Github stats
-![My github stats](https://github-readme-stats.vercel.app/api?username=RamzziSudip&count_private=true&theme=synthwave)  
-![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RamzziSudip&theme=synthwave)  
-![Profile Views](https://komarev.com/ghpvc/?username=RamzziSudip)
+![My github stats](https://github-readme-stats.vercel.app/api?username=drlove2002&count_private=true&theme=synthwave)  
+![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drlove2002&theme=synthwave)  
+![Profile Views](https://komarev.com/ghpvc/?username=drlove2002)
